@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.example.demo.entity;
 
 import javax.persistence.*;
@@ -41,9 +40,4 @@ enum Sex {
 
 enum Role {
     student, admin
-=======
-package com.example.demo;
-
-public class User {
->>>>>>> d781de6a8631ee568913b11f007be21523bd2d8b
 }

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.example.demo.controller;
 
 import com.example.demo.entity.User;
@@ -50,7 +49,4 @@ public class UserController {
     public void deleteUser(@PathVariable Integer id) {
         userRepository.deleteById(id);
     }
-=======
-package com.example.demo.controller;public class UserController {
->>>>>>> d781de6a8631ee568913b11f007be21523bd2d8b
 }

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.example.demo.entity;
 
 import javax.persistence.*;
@@ -30,7 +29,4 @@ public class StudyRoom {
 
 enum Status {
     available, reserved, closed
-=======
-package com.example.demo.entity;public class StudyRoom {
->>>>>>> d781de6a8631ee568913b11f007be21523bd2d8b
 }
