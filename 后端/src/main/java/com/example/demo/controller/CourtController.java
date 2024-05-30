@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.demo.controller;
 
 import com.example.demo.entity.Court;
@@ -45,4 +46,7 @@ public class CourtController {
     public void deleteCourt(@PathVariable Integer id) {
         courtRepository.deleteById(id);
     }
+=======
+package com.example.demo.controller;public class CourtController {
+>>>>>>> d781de6a8631ee568913b11f007be21523bd2d8b
 }

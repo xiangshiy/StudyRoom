@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.demo.entity;
 
 import javax.persistence.*;
@@ -25,4 +26,7 @@ public class Court {
 
 enum Sport {
     羽毛球, 乒乓球, 网球, 台球
+=======
+package com.example.demo.entity;public class Court {
+>>>>>>> d781de6a8631ee568913b11f007be21523bd2d8b
 }

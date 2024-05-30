@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.demo.service;
 
 import com.example.demo.entity.User;
@@ -43,4 +44,7 @@ public class UserService {
     public void deleteUser(Integer id) {
         userRepository.deleteById(id);
     }
+=======
+package com.example.demo.service;public class UserService {
+>>>>>>> d781de6a8631ee568913b11f007be21523bd2d8b
 }

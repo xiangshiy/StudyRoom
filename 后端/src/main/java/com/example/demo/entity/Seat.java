@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.demo.entity;
 
 import javax.persistence.*;
@@ -18,4 +19,7 @@ public class Seat {
     private Integer seatNumber;
 
     // getters and setters
+=======
+package com.example.demo.entity;public class Seat {
+>>>>>>> d781de6a8631ee568913b11f007be21523bd2d8b
 }
